@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("Hello,world!");
 		System.out.println("Hello,world!");
 		System.out.println("Hello,world!");
+		Maybe you wanted to say 'git add .'?
 		
 	}
 }
